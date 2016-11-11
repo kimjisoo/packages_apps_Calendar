@@ -493,7 +493,7 @@
     <!-- This the title of a menu for "About Calendar" Preferences.
          Pressing the menu item lets user to view the current settings
          [CHAR LIMIT=30] -->
-    <string name="menu_about_preferences">About Etar</string>
+    <string name="menu_about_preferences">About Calendar</string>
 
     <!-- This is the title of the screen for setting user preferences. -->
     <string name="preferences_title">"Settings"</string>
@@ -745,6 +745,6 @@
     <!-- Do Not Translate.  Sender identity for global notification synchronization. -->
     <string name="notification_sender_id" translatable="false"></string>
 
-    <string name="user_rejected_calendar_write_permission">Etar requires calendar read and write permissions to work properly. Please try again.</string>
-    <string name="calendar_permission_not_granted">Sorry this feature can\'t work. Etar requires calendar read and write permissions to work properly</string>
+    <string name="user_rejected_calendar_write_permission">This app requires calendar read and write permissions to work properly. Please try again.</string>
+    <string name="calendar_permission_not_granted">Sorry this feature can\'t work. This app requires calendar read and write permissions to work properly</string>
 </resources>
