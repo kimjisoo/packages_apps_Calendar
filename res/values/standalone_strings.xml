@@ -14,7 +14,7 @@
      limitations under the License.
 -->
 <resources>
-     <string name="standalone_app_label">Etar</string>
+     <string name="standalone_app_label">Calendar</string>
 
 </resources>
  
