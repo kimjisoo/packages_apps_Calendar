@@ -19,8 +19,8 @@
 -->
 <resources>
 
-    <color name="colorPrimary">#41c3b1</color>
-    <color name="colorPrimaryDark">#388d7f</color>
+    <color name="colorPrimary">#003366</color>
+    <color name="colorPrimaryDark">#000f1e</color>
     <color name="colorAccent">#003366</color>
     <color name="titleTextColor">@android:color/white</color>
 
@@ -64,7 +64,7 @@
     <color name="month_day_number">#FF555555</color>
     <color name="month_mini_day_number">#FF000000</color>
     <color name="month_day_number_other">#FF999999</color>
-    <color name="month_week_num_color">#41c3b1</color>
+    <color name="month_week_num_color">#003366</color>
     <color name="month_day_names_color">#757575</color>
     <color name="month_today_number">#FF555555</color>
     <color name="month_event_color">#FF333333</color>
@@ -191,7 +191,7 @@
     <color name="month_other_month_day_number_dark">#ff939497</color>
     <color name="month_grid_lines_dark">#ffdedede</color>
     <color name="mini_month_today_outline_color_dark">#FF000000</color>
-    <color name="month_week_num_color_dark">#41c3b1</color>
+    <color name="month_week_num_color_dark">#003366</color>
 
     <!-- Dark Color DayView -->
     <color name="week_today_dark">#90caf9</color>
